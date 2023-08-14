@@ -6,6 +6,8 @@ PCB files for RPI USB-Bridge Board
 
 Connects the USB-A 3.0 port to the motherboard USB-A 3.0 port.
 
+under construction
+
 Part 3 of 3, part 1 is Own_RPI_Streamer_PCB and part 2 is Own_RPI_Expansion_PCB.<br>
 https://github.com/CrackXT/Own_RPI_Streamer_PCB<br>
 https://github.com/CrackXT/Own_RPI_Expansion_PCB<br>
