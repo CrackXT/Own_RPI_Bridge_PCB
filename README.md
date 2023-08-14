@@ -1,6 +1,6 @@
 # Own_RPI_Bridge_PCB
 
-PCB files for RPI Streamer Board
+PCB files for RPI USB-Brdige Board
 
 # Description
 
