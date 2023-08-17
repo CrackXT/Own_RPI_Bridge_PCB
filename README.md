@@ -8,7 +8,7 @@ Connects the USB-A 3.0 port to the motherboard USB-A 3.0 port.
 
 under construction
 
-- Part 2
+- Part 3
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
